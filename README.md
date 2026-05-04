@@ -35,7 +35,10 @@ Free to use and meddle with.
 
 ## How to:
 
-1. Download a theme of your choice. Go to the theme's folder, click on the file, and from the upper right corner click "Download raw file".
+1. Download a theme of your choice. Go to the file, and from the upper right corner click "Download raw file".
+   - [Stormy Sea](https://github.com/jehelk/dopamine/blob/main/StormySea/StormySea.theme)
+   - [High Violet](https://github.com/jehelk/dopamine/blob/main/HighViolet/HighViolet.theme)
+   - [Garden](https://github.com/jehelk/dopamine/blob/main/Garden/Garden.theme)
 
 2. In the player's settings make sure you have ticked off both "Follow the system theme" and "Use light theme". Ticking either one of these on after you have enabled a theme may make Dopamine switch to default theme and prevent you from selecting the theme again before you have ticked both selections off and restarted the player.
 

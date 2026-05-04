@@ -1,6 +1,6 @@
 # Dopamine
 
-Darker themes for Dopamine audio player.
+Dark colour themes for Dopamine audio player.
 
 The default teal coloured themes were too washed out for my liking so I created something easier for the eyes -- and then went ahead and made two more because why not. Note that I couldn't find a variable for the settings' main font colour, so for now it's a bit too low contrast to my liking.
 

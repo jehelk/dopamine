@@ -1,0 +1,45 @@
+{
+  "name": "Stormy Sea",
+  "creator": {
+    "name": "jehelk",
+    "email": " "
+  },
+  "coreColors": {
+    "primaryColor": "#126B60",
+    "secondaryColor": "#2DD2BC",
+    "accentColor": "#2DD2BC"
+  },
+  "darkColors": {
+    "windowButtonIcon": "#98B3B0",
+    "hoveredItemBackground": "rgba(21, 125, 112, 0.5)",
+    "selectedItemBackground": "rgba(21, 125, 112, 0.2)",
+    "tabText": "#98B3B0",
+    "selectedTabText": "#ffffff",
+    "mainBackground": "#0B1C1C",
+    "headerBackground": "#071212",
+    "footerBackground": "#071212",
+    "sidePaneBackground": "#0A191A",
+    "primaryText": "#ffffff",
+    "secondaryText": "#98B3B0",
+    "sliderBackground": "#445755",
+    "sliderThumbBackground": "#ffffff",
+    "albumCoverLogo": "#126B60",
+    "albumCoverBackground": "#071212",
+    "headerSeparator": "transparent",
+    "paneSeparators": "transparent",
+    "settingsSeparators": "#126B60",
+    "contextMenuSeparators": "#126B60",
+    "scrollBars": "#126B60",
+    "searchBox": "#445755",
+    "searchBoxText": "#ffffff",
+    "searchBoxIcon": "#ffffff",
+    "dialogBackground": "#0B1C1C",
+    "tooltipText": "#071212",
+    "buttonBorder": "#126B60",
+    "highlightForeground": "#071212"
+  },
+
+"options": {
+    "centerAlbumInfoText": false
+  }
+}

@@ -6,12 +6,18 @@ Free to use and meddle with.
 
 Stormy Sea: Monochromatic dark teal green theme.
 
+< img src="https://github.com/jehelk/dopamine/blob/main/StormySea/StormySea.jpg?raw=true" />
+
 High Violet: Moody purple/violet sister to Stormy Sea.
+
+< img src="" />
 
 Garden: Slightly more colourful variation of Stormy Sea. Not suitable for colour blind people.
 
+< img src="" />
 
-How to use
+
+How to:
 
 1. Download a theme of your choice. Go to the theme's folder, click on the file, and from the upper right corner click "Download raw file".
 

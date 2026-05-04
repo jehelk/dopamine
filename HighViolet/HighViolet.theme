@@ -1,0 +1,45 @@
+{
+  "name": "High Violet",
+  "creator": {
+    "name": "jehelk",
+    "email": " "
+  },
+  "coreColors": {
+    "primaryColor": "#6B44AD",
+    "secondaryColor": "#BA8FFF",
+    "accentColor": "#BA8FFF"
+  },
+  "darkColors": {
+    "windowButtonIcon": "#B6BCD1",
+    "hoveredItemBackground": "rgba(107, 68, 173, 0.5)",
+    "selectedItemBackground": "rgba(107, 68, 173, 0.3)",
+    "tabText": "#B6BCD1",
+    "selectedTabText": "#ffffff",
+    "mainBackground": "#0D0B14",
+    "headerBackground": "#07060A",
+    "footerBackground": "#07060A",
+    "sidePaneBackground": "#0B080F",
+    "primaryText": "#ffffff",
+    "secondaryText": "#B6BCD1",
+    "sliderBackground": "#4A4457",
+    "sliderThumbBackground": "#ffffff",
+    "albumCoverLogo": "#6B44AD",
+    "albumCoverBackground": "#0B080F",
+    "headerSeparator": "transparent",
+    "paneSeparators": "transparent",
+    "settingsSeparators": "#6B44AD",
+    "contextMenuSeparators": "#6B44AD",
+    "scrollBars": "#6B44AD",
+    "searchBox": "#4A4457",
+    "searchBoxText": "#ffffff",
+    "searchBoxIcon": "#ffffff",
+    "dialogBackground": "#0E0B14",
+    "tooltipText": "#07060A",
+    "buttonBorder": "#6B44AD",
+    "highlightForeground": "#07060A"
+  },
+
+"options": {
+    "centerAlbumInfoText": false
+  }
+}

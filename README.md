@@ -26,7 +26,7 @@ Free to use and meddle with.
 <br />
 
 ## Garden: 
-- Slightly more colourful variation of Stormy Sea. Not suitable for colour blind people. <br /><br />
+- Slightly more colourful variation of Stormy Sea. <br /><br />
 
 ![Garden theme](Garden/Garden.PNG)
 <br />

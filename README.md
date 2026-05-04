@@ -33,7 +33,7 @@ Free to use and meddle with.
 <br />
 <br />
 
-# How to:
+## How to:
 
 1. Download a theme of your choice. Go to the theme's folder, click on the file, and from the upper right corner click "Download raw file".
 

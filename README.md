@@ -1,6 +1,6 @@
 # Dopamine
 
-Theme(s) for Dopamine music player.
+Themes for Dopamine music player.
 
 The default teal coloured themes were too washed out for my liking so I created something easier for the eyes -- and then went ahead I made two more because why not. Note that I couldn't find a variable for the settings' main font colour, so for now it's a bit too low contrast to my liking.
 
@@ -12,7 +12,7 @@ Free to use and meddle with.
 ## Stormy Sea: 
 - Monochromatic dark teal green theme. <br /><br />
 
-![Stormy Sea theme](StormySea/StormySea2.png)
+![Stormy Sea theme](StormySea/StormySea.PNG)
 <br />
 <br />
 <br />
@@ -20,7 +20,7 @@ Free to use and meddle with.
 ## High Violet: 
  - Moody purple/violet sister to Stormy Sea. <br /><br />
 
-![High Violet theme](HighViolet/HighViolet2.png)
+![High Violet theme](HighViolet/HighViolet.PNG)
 <br />
 <br />
 <br />
@@ -28,7 +28,7 @@ Free to use and meddle with.
 ## Garden: 
 - Slightly more colourful variation of Stormy Sea. Not suitable for colour blind people. <br /><br />
 
-![Garden theme](Garden/Garden2.png)
+![Garden theme](Garden/Garden.PNG)
 <br />
 <br />
 <br />

@@ -39,6 +39,6 @@ Free to use and meddle with.
 
 2. In the player's settings make sure you have ticked off both "Follow the system theme" and "Use light theme". Ticking either one of these on after you have enabled a theme may make Dopamine switch to default theme and prevent you from selecting the theme again before you have ticked both selections off and restarted the player.
 
-3. Click on "Add More Themes". Dopamine will automatically open the folder where the themes go. Drag and drop your downloaded theme into this folder, then close it.
+3. Click on "Add More Themes". Dopamine will automatically open the folder where themes go to. Drag and drop your downloaded theme into this folder, then close it.
 
 4. You should be now able to select your new Dopamine theme.
